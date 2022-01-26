@@ -1,0 +1,9 @@
+time="2022-01-20T11:12:22+07:00" level=info msg="Helo logic"
+time="2022-01-20T11:12:22+07:00" level=warning msg="warning error"
+time="2022-01-20T11:13:32+07:00" level=debug msg="Ini info debug"
+time="2022-01-20T11:13:32+07:00" level=info msg="Helo logic"
+time="2022-01-20T11:13:32+07:00" level=warning msg="warning error"
+time="2022-01-20T11:13:47+07:00" level=info msg="Helo logic"
+time="2022-01-20T11:13:47+07:00" level=warning msg="warning error"
+{"level":"info","msg":"Halo logger","time":"2022-01-20T11:21:15+07:00"}
+{"level":"warning","msg":"Halo logger","time":"2022-01-20T11:21:15+07:00"}
